@@ -18,5 +18,5 @@ for( i in Self_Args[0].slice(0, Self_Args[0].length-1) ){
     Payload += `%${Self_Args[0][i]}`
 }
 
-Payload = `https://www.google.com/url?sa=i&url=${Payload}&psig=AOvVaw3ukXRCWqnsD6Crwrcn8Emk&ust=1640477046919000`
+Payload = `https://www.google.com/url?sa=i&url=${Payload}&psig=AOvVaw14JRmtVWVrpfOlQebzAFpD&ust=1640524542334000&source=images&cd=vfe&ved=0CAkQjhxqFwoTCKCln6iE__QCFQAAAAAdAAAAABAD`
 console.log(`Payload: ${Payload}`)
