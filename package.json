@@ -1,0 +1,24 @@
+{
+    "name": "gartlp",
+    "version": "1.0.0",
+    "description": "Google automatic redirector to link payload maker.",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "keywords": [
+        "i2rys",
+        "gartlp",
+        "google-link-payload",
+        "google-payload",
+        "google-link-redirector",
+        "google-redirect-link"
+    ],
+    "repository": "https://github.com/I2rys/GARTLP",
+    "author": {
+        "name": "I2rys",
+        "email": "i2rys@protonmail.com",
+        "website": "https://i2rys.xyz"
+    },
+    "license": "MIT"
+}
